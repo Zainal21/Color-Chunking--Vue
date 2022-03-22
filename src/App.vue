@@ -15,42 +15,33 @@
               <h2 class="font-bold text-2xl text-gray-200 mb-5">Colors</h2>
               <h3 class="mb-4 text-xl text-gray-300">Shimmer</h3>
               <ColorSwatch colorName="#C2C2C2" style="background-color:#C2C2C2" />
-              <h2 class="mb-4 text-xl text-gray-300">Custom BaseColors (Color Hunt)</h2>
-              <ColorSwatch colorName="#C2C2C2" style="background-color:#C2C2C2" />
-              <ColorSwatch colorName="#C2C2C2" style="background-color:#C2C2C2" />
-              <ColorSwatch colorName="#C2C2C2" style="background-color:#C2C2C2" />
               <h3 class="mb-4 text-xl text-gray-300">Red</h3>
               <ColorSwatch colorName="#F87171" style="background-color:#F87171" />
               <ColorSwatch colorName="#EF4444" style="background-color:#EF4444" />
               <ColorSwatch colorName="#DC2626" style="background-color:#DC2626" />
               <ColorSwatch colorName="#B91C1C" style="background-color:#B91C1C" />
               <h3 class="mb-4 text-xl text-gray-300">Yellow</h3>
+              <ColorSwatch colorName="#FFAD46" style="background-color:#FFAD46" />
               <ColorSwatch colorName="#FBBF24" style="background-color:#FBBF24" />
               <ColorSwatch colorName="#F59E0B" style="background-color:#F59E0B" />
               <ColorSwatch colorName="#D97706" style="background-color:#D97706" />
               <ColorSwatch colorName="#B45309" style="background-color:#B45309" />
               <ColorSwatch colorName="#92400E" style="background-color:#92400E" />
-              <ColorSwatch colorName="#FFAD46" style="background-color:#FFAD46" />
               <h3 class="mb-4 text-xl text-gray-300">Gray</h3>
               <ColorSwatch colorName="#FAFAFA" style="background-color:#FAFAFA" />
               <ColorSwatch colorName="#F5F5F5" style="background-color:#F5F5F5" />
+              <ColorSwatch colorName="#F3F4F6" style="background-color:#F3F4F6" />
               <ColorSwatch colorName="#EEEEEE" style="background-color:#EEEEEE" />
+              <ColorSwatch colorName="#E5E7EB" style="background-color:#E5E7EB" />
               <ColorSwatch colorName="#E0E0E0" style="background-color:#E0E0E0" />
               <ColorSwatch colorName="#BDBDBD" style="background-color:#BDBDBD" />
-              <ColorSwatch colorName="#9E9E9E" style="background-color:#9E9E9E" />
-              <ColorSwatch colorName="#F3F4F6" style="background-color:#F3F4F6" />
-              <ColorSwatch colorName="#E5E7EB" style="background-color:#E5E7EB" />
               <ColorSwatch colorName="#9CA3AF" style="background-color:#9CA3AF" />
+              <ColorSwatch colorName="#9E9E9E" style="background-color:#9E9E9E" />
+              <ColorSwatch colorName="#757575" style="background-color:#757575" />
+              <ColorSwatch colorName="#616161" style="background-color:#616161" />
               <ColorSwatch colorName="#6B7280" style="background-color:#6B7280" />
               <ColorSwatch colorName="#4B5563" style="background-color:#4B5563" />
               <ColorSwatch colorName="#374151" style="background-color:#374151" />
-              <ColorSwatch colorName="#616161" style="background-color:#616161" />
-              <ColorSwatch colorName="#757575" style="background-color:#757575" />
-              <ColorSwatch colorName="#424242" style="background-color:#424242" />
-              <ColorSwatch colorName="#212121" style="background-color:#212121" />
-              <ColorSwatch colorName="#292524" style="background-color:#292524" />
-              <ColorSwatch colorName="#1C1917" style="background-color:#1C1917" />
-              <ColorSwatch colorName="#1A1A1A" style="background-color:#1a1a1a" />
               <h3 class="mb-4 text-xl text-gray-300">Deep Orage</h3>
               <ColorSwatch colorName="#FF9E80" style="background-color:#FF9E80" />
               <ColorSwatch colorName="#FFAB91" style="background-color:#FFAB91" />
